@@ -13,12 +13,6 @@
 
 ---
 
-### 🔭 Currently Working On  
-- **Quickshow** – Online Ticket Booking App  
-  🔗 https://quickshowticketbooking.netlify.app/
-
----
-
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/harshaljori" target="blank">
