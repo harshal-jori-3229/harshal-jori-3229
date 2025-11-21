@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR3cnRidmgxNmN0NW00eWYydXVnZXhxN3p2NGNjcGRzeW93eG5ibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
-       width="100%" 
-       alt="coding header" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | JavaScript Lover 🚀</h3>
